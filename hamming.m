@@ -1,6 +1,4 @@
 % % This file performs hamming (7, 4) encoding. Decode function is called to detect any error in the transmitted signal and correct it.
-% % EC-262 Communication Systems MTE Evaluation Project
-% % Sakshi Arora 2K19/EP/084 Pranay Khosla 2K19/EP/073
 % % Hamming (7, 4) Code
 
 clear all;	clc; 
